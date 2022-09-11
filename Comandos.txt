@@ -1,0 +1,15 @@
+INSTALAÇÃO: 
+
+npm install -g sass
+-------------------------------------------------
+
+COMPILAÇÃO PARA CSS 
+
+sass --watch SASS/style.sass:css/style.css 
+
+( SASS ) Minha pasta
+( style.sass ) Meu arquivo em sass 
+( :css ) Definindo o diretório da minha conversão 
+( style.css ) Renomeando o meu arquivo 
+
+47
